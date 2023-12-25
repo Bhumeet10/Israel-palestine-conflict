@@ -27,4 +27,3 @@ To explore this Power BI dashboard, you can access it here. Dive into the intric
 Disclaimer:
 This dashboard is intended for informational and educational purposes only. It does not take sides in the conflict and aims to provide an objective overview of its historical and current aspects.
 
-Feel free to use this description as an introduction for your dashboard, and adapt it to fit your specific project. Make sure to include the actual link to your dashboard in the provided placeholder and add any additional details or disclaimers as needed.
